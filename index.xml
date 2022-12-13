@@ -257,7 +257,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-982567143&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-651397284&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -267,7 +267,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-982567143&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-651397284&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -746,24 +746,6 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>https://denisecammarota.github.io/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://denisecammarota.github.io/privacy/</guid>
-      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>https://denisecammarota.github.io/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://denisecammarota.github.io/terms/</guid>
-      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Example Project</title>
       <link>https://denisecammarota.github.io/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -828,6 +810,33 @@ $$&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://denisecammarota.github.io/admin/config.yml</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>An example title</title>
+      <link>https://denisecammarota.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://denisecammarota.github.io/contact/</guid>
+      <description>&lt;p&gt;add your &lt;em&gt;content&lt;/em&gt; here&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example title</title>
+      <link>https://denisecammarota.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://denisecammarota.github.io/publications/</guid>
+      <description>&lt;p&gt;Add your &lt;em&gt;content&lt;/em&gt; here&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example title</title>
+      <link>https://denisecammarota.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://denisecammarota.github.io/research/</guid>
+      <description>&lt;p&gt;Add your &lt;em&gt;content&lt;/em&gt; here&amp;hellip;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
