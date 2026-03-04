@@ -6,9 +6,21 @@ website:
   title: "Denise Cammarota"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: Início
+        href: index.qmd
+      - text: Sobre mim
+        href: about.qmd
+      - text: Pesquisa
+        href: research.qmd
+      - text: Blog
+        href: blog/index.qmd
+      - text: Projetos
+        href: projects/index.qmd
+      - text: Tutoriais
+        href: tutorials/index.qmd
+    right:
+      - icon: github
+        href: https://github.com/denisecammarota
 
 format:
   html:
