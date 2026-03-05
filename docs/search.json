@@ -4,20 +4,34 @@
     "href": "index.html",
     "title": "Denise Cammarota",
     "section": "",
-    "text": "Sou doutoranda em Física no Instituto de Física Teórica (IFT-UNESP), em São Paulo, e cientista de dados, atuando na interseção entre modelagem matemática, ciência de dados e epidemiologia, com foco na dinâmica de doenças infecciosas.\nMinha atuação envolve análise e visualização de dados, construção de relatórios e painéis de monitoramento, produção científica, assim como modelagem matemática e desenvolvimento de métodos quantitativos.\nNeste site compartilho projetos, tutoriais e meu blog técnico pessoal focado em assuntos de modelagem, visualização e ciência de dados."
+    "text": "Sou doutoranda em Física no Instituto de Física Teórica (IFT-UNESP), em São Paulo, e cientista de dados, atuando na interseção entre modelagem matemática, ciência de dados e epidemiologia, com foco na dinâmica de doenças infecciosas.\nMinha atuação envolve análise e visualização de dados, construção de relatórios e painéis de monitoramento, produção científica, assim como modelagem matemática e desenvolvimento de métodos quantitativos.\nNeste site compartilho projetos, tutoriais e meu blog pessoal focado em assuntos de modelagem, visualização e ciência de dados."
   },
   {
     "objectID": "index.html#denise-cammarota",
     "href": "index.html#denise-cammarota",
     "title": "Denise Cammarota",
     "section": "",
-    "text": "Sou doutoranda em Física no Instituto de Física Teórica (IFT-UNESP), em São Paulo, e cientista de dados, atuando na interseção entre modelagem matemática, ciência de dados e epidemiologia, com foco na dinâmica de doenças infecciosas.\nMinha atuação envolve análise e visualização de dados, construção de relatórios e painéis de monitoramento, produção científica, assim como modelagem matemática e desenvolvimento de métodos quantitativos.\nNeste site compartilho projetos, tutoriais e meu blog técnico pessoal focado em assuntos de modelagem, visualização e ciência de dados."
+    "text": "Sou doutoranda em Física no Instituto de Física Teórica (IFT-UNESP), em São Paulo, e cientista de dados, atuando na interseção entre modelagem matemática, ciência de dados e epidemiologia, com foco na dinâmica de doenças infecciosas.\nMinha atuação envolve análise e visualização de dados, construção de relatórios e painéis de monitoramento, produção científica, assim como modelagem matemática e desenvolvimento de métodos quantitativos.\nNeste site compartilho projetos, tutoriais e meu blog pessoal focado em assuntos de modelagem, visualização e ciência de dados."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Sobre mim",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Sou doutoranda em Física no Instituto de Física Teórica da UNESP (IFT-UNESP), em São Paulo. Meu trabalho se situa na interface entre modelagem matemática, epidemiologia e ciência e análise de dados, com foco em compreender os mecanismos por por trás da dinâmica de doenças infecciosas e em desenvolver e aplicar métodos quantitativos nas areas de saúde pública e vigilância epidemiológica."
+  },
+  {
+    "objectID": "about.html#trajetória-académica",
+    "href": "about.html#trajetória-académica",
+    "title": "Sobre mim",
+    "section": "Trajetória académica",
+    "text": "Trajetória académica\nDoutorado (PhD) em Física\nInstituto de Física Teórica — UNESP\nAgosto de 2022 – presente\nTese: Modelagem matemática de doenças tropicais com heterogeneidades\n\nMestrado em Física\nInstituto Balseiro — Argentina\nFevereiro de 2021 – fevereiro de 2022\nTese: Modelos epidemiológicos de COVID-19: simulações computacionais, estatística bayesiana e técnicas de aprendizado de máquina\n\nGraduação em Física\nInstituto Balseiro — Argentina\nAgosto de 2018 – fevereiro de 2021\nDissertação: Modelos epidemiológicos de COVID-19: simulações computacionais, estatística bayesiana e técnicas de aprendizado de máquina"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "Sobre mim",
+    "section": "Skills",
+    "text": "Skills\n\nMétodos\n\nanálise de dados (ETL, painéis, relatórios)\nciência de dados\nmachine learning e deep learning\nmachine learning científico\nmodelagem matemática de doenças infecciosas\nmodelos de equações diferenciais\nálgebra linear aplicada\n\n\n\n\nProgramação\n\nPython\n\nR\n\nSQL\n\nC/C++\n\n\n\n\nStack principal\n\nnumpy, pandas, matplotlib, seaborn\n\nscikit-learn, tensorflow\n\ntidyverse (dplyr, ggplot2, purrr)\n\nshiny, quarto"
   }
 ]

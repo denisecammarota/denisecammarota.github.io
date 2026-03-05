@@ -5,7 +5,7 @@ toc: false
 about:
   template: trestles
   image-shape: round
-  image-width: 18em
+  image-width: 24em
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/denise-cammarota/
@@ -15,6 +15,8 @@ about:
       href: mailto:denisescammarota@gmail.com
     - text: Bluesky
       href: https://bsky.app/profile/denisecamm.bsky.social
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=2E4me28AAAAJ&hl=es
 ---
 
 ## Denise Cammarota
@@ -23,4 +25,4 @@ Sou doutoranda em Física no Instituto de Física Teórica (IFT-UNESP), em São 
 
 Minha atuação envolve análise e visualização de dados, construção de relatórios e painéis de monitoramento, produção científica, assim como modelagem matemática e desenvolvimento de métodos quantitativos.
 
-Neste site compartilho projetos, tutoriais e meu blog técnico pessoal focado em assuntos de modelagem, visualização e ciência de dados.
+Neste site compartilho projetos, tutoriais e meu blog pessoal focado em assuntos de modelagem, visualização e ciência de dados.
