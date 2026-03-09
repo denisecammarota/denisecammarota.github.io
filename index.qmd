@@ -21,8 +21,8 @@ about:
 
 ## Denise Cammarota
 
-Sou doutoranda em Física no Instituto de Física Teórica (IFT-UNESP), em São Paulo, e cientista de dados, atuando na interseção entre modelagem matemática, ciência de dados e epidemiologia, com foco na dinâmica de doenças infecciosas.
+Sou pesquisadora de doutorado em Física no Instituto de Física Teórica (IFT-UNESP), em São Paulo, atuando na interseção entre modelagem matemática, ciência de dados e epidemiologia, com foco na dinâmica de doenças infecciosas.
 
 Minha atuação envolve análise e visualização de dados, construção de relatórios e painéis de monitoramento, produção científica, assim como modelagem matemática e desenvolvimento de métodos quantitativos.
 
-Neste site compartilho projetos, tutoriais e meu blog pessoal focado em assuntos de modelagem, visualização e ciência de dados.
+Neste site compartilho projetos, tutoriais e meu blog pessoal focado em assuntos de modelagem, visualização e ciência de dados gerais.

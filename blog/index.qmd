@@ -1,0 +1,12 @@
+---
+title: "Blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+---
+
+Este é o meu blog pessoal, onde escrevo de forma geral sobre assuntos do meu interesse, passando por ciência e análise de dados, visualização e modelagem.
